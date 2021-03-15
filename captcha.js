@@ -20,7 +20,7 @@ const sendCap = async () => {
         console.log(data);
         if (!data['success']) {
             console.log("invalidUserNameOrPassword()");
-            location.href = './app.html';
+            location.href = './index.html';
         }
         else {
             let token = data['jwt'];
