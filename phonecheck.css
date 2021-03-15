@@ -1,0 +1,17 @@
+.bold-num{
+    font-weight: 600;
+    font-size: 25px;
+    margin: 5px;
+    
+}
+.phone-number{
+    font-size: 20px;
+    font-weight: 600;
+    width: 200px;
+    margin: 0 5px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

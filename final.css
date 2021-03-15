@@ -1,0 +1,17 @@
+html,
+body {
+    height: 100%;
+    background-color:#47977f !important;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    font-weight: 800;
+    font-size: 30px;
+    color: white;
+}
